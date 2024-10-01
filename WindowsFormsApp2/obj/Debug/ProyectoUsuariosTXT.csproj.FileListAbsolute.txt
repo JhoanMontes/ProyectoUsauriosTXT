@@ -1,0 +1,13 @@
+C:\Users\Blasito\Source\Repos\ProyectoUsauriosTXT\WindowsFormsApp2\bin\Debug\Usuario.txt
+C:\Users\Blasito\Source\Repos\ProyectoUsauriosTXT\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\Blasito\Source\Repos\ProyectoUsauriosTXT\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\Blasito\Source\Repos\ProyectoUsauriosTXT\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\Blasito\Source\Repos\ProyectoUsauriosTXT\WindowsFormsApp2\obj\Debug\ProyectoUsuariosTXT.csproj.AssemblyReference.cache
+C:\Users\Blasito\Source\Repos\ProyectoUsauriosTXT\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.FrmLogin.resources
+C:\Users\Blasito\Source\Repos\ProyectoUsauriosTXT\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.FrmMenu.resources
+C:\Users\Blasito\Source\Repos\ProyectoUsauriosTXT\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.FrmUsuarios.resources
+C:\Users\Blasito\Source\Repos\ProyectoUsauriosTXT\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Blasito\Source\Repos\ProyectoUsauriosTXT\WindowsFormsApp2\obj\Debug\ProyectoUsuariosTXT.csproj.GenerateResource.cache
+C:\Users\Blasito\Source\Repos\ProyectoUsauriosTXT\WindowsFormsApp2\obj\Debug\ProyectoUsuariosTXT.csproj.CoreCompileInputs.cache
+C:\Users\Blasito\Source\Repos\ProyectoUsauriosTXT\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\Blasito\Source\Repos\ProyectoUsauriosTXT\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
